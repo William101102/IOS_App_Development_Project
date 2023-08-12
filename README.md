@@ -19,8 +19,12 @@ Project is built with:
 
 ## Project Description
 
- * ##### [I am Rich Project]: 
- * ##### [I am Poor Project]: 
+ * ##### [I am Rich Project]:
+Using the MainBoMainStoryBoardard in Xcode to add Label and Image View. In the assect adding App Icon and Image, so I can select these two image in the MainStoryBoard to show in the App. In the Label can appear the text I want to show in the App.
+   
+ * ##### [I am Poor Project]:
+Using the MainBoMainStoryBoardard in Xcode to add Label and Image View. In the assect adding App Icon and Image, so I can select these two image in the MainStoryBoard to show in the App. In the Label can appear the text I want to show in the App.
+
  * ##### [Dicee Project]: 
  * ##### [Magic 8 Ball Project]: 
  * ##### [Calculator Layout Project]: 
