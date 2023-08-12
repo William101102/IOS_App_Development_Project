@@ -110,7 +110,13 @@ In this tutorial, I will delve into the core of iOS app development by mastering
 Knowledge:
 I learn iOS fundamentals, encompassing Table Views, custom cell design, and cloud-based backend development to craft Flash Chat—an internet messaging app leveraging Firebase Firestore. It equips me with third-party library integration, Firebase database handling, UITableView manipulation, custom view creation, navigation management, and more.
 
- * ##### [SwitchUI Project]:
+ * ##### [SwiftUI Project]:
 App Function:
 
-Knowledge:
+1. I am Rich: showcases a simple screen with a luxurious gem, symbolizing opulence, accompanied by a brief caption
+
+2. Dicee: generates random dice rolls upon user interaction, simulating the act of rolling physical dice and providing a virtual solution for chance-based outcomes.
+
+3. H4X0R News: A dynamic platform for users to explore and engage with the latest technological news and updates, offering a curated feed of articles from diverse sources in the tech industry.
+
+Knowledge: Using the SwitchUI to achieve the same function I can show in the UIKit. SwiftUI is a modern and declarative framework for building iOS user interfaces, allowing you to describe UI elements and behavior concisely
