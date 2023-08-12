@@ -91,18 +91,24 @@ This module enabled me to employ Optionals, strengthen my grasp of the MVC desig
 
  * ##### [Clima Project]:
 App Function:
+This module propels app development skills forward by introducing the utilization of Application Programming Interfaces (APIs) to fetch real-time internet data, culminating in the creation of a sleek weather app with dark mode support that enables users to access current location-based weather information through GPS data or manual city search.
 
 Knowledge:
+This module empowers me to harness APIs for real-time data, culminating in a sleek dark-mode weather app that leverages GPS data and user input, while mastering skills in dark mode design, vector images, UITextField, delegate pattern, Swift protocols, extensions, guard keyword, computed properties, closures, URLSession, JSON parsing, Grand Central Dispatch, and Core Location.
 
  * ##### [ByteCoin Project]:
 App Function:
+The ByteCoin app allows users to effortlessly track and monitor real-time cryptocurrency exchange rates, offering insights into global markets and facilitating informed investment decisions.
 
 Knowledge:
+This module empowers me to harness APIs for real-time data. Using the vector images, UITextField, delegate pattern, Swift protocols, extensions, guard keyword, computed properties, closures, URLSession, JSON parsing, and Grand Central Dispatch.
 
  * ##### [Flash Chat Project]:
 App Function:
+In this tutorial, I will delve into the core of iOS app development by mastering Table Views, crafting custom cells, and building a cloud-based backend database using Firebase Firestore, culminating in the creation of Flash Chat, an internet-based messaging app akin to WhatsApp, allowing users to exchange messages stored in the cloud.
 
 Knowledge:
+I learn iOS fundamentals, encompassing Table Views, custom cell design, and cloud-based backend development to craft Flash Chat—an internet messaging app leveraging Firebase Firestore. It equips me with third-party library integration, Firebase database handling, UITableView manipulation, custom view creation, navigation management, and more.
 
  * ##### [SwitchUI Project]:
 App Function:
