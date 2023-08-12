@@ -63,23 +63,31 @@ I utilized my understanding of sound playback with AVFoundation, applied Swift p
  
  * ##### [Eggtimer Project]:
 App Function:
+This module enhanced my problem-solving skills by combining online research with new Swift programming concepts to create an egg timer app, offering personalized egg boiling durations.
 
 Knowledge:
+I mastered problem-solving through online research and explored new Swift programming concepts, culminating in the creation of an elegant egg timer app customized for precise egg boiling preferences, while acquiring skills in Swift dictionaries, Timer API, conditional statements, functions with outputs, and ProgressView usage.
    
  * ##### [Quizzler Project]:
 App Function:
+I advance my app development journey by learning the essential Model View Controller (MVC) design pattern while creating a trivia quiz app, a popular educational application genre on the App Store.
 
 Knowledge:
+I advanced in app development by mastering the Model View Controller (MVC) pattern, creating a trivia quiz app, and gaining expertise in Swift Structures, Classes, UI manipulation, and code organization.
 
  * ##### [Destini Project]:
 App Function:
+The app allows users to embark on an interactive "choose your own adventure" journey, immersing them in a captivating story that unfolds based on their decisions, all while showcasing the implementation of the MVC design pattern and utilizing Swift Structures for effective separation of the Model and Controller.
 
 Knowledge:
+I advanced in app development by mastering the Model View Controller (MVC) pattern, creating a trivia quiz app, and gaining expertise in Swift Structures, Classes, UI manipulation, and code organization.
 
  * ##### [BMI Calculator Project]:
 App Function:
+The app calculates the user's Body Mass Index (BMI) using input data of weight and height, offering health advice based on the results, while also exemplifying Optionals, the MVC design pattern, and the differentiation between Classes and Structs.
 
 Knowledge:
+This module enabled me to employ Optionals, strengthen my grasp of the MVC design pattern, introduce Classes, and develop a Body Mass Index calculator app that offers health advice based on user input, incorporating skills in multi-screen app creation, optional handling, class implementation, pass by value/reference, String formatting, and UI enhancement through color literals.
 
  * ##### [Clima Project]:
 App Function:
